@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "7618",
+      "username": "bernard",
+      "phone": "660171611",
+      "email": "bernard@gmail.com",
+      "password": "bernard@gmail.com"
+    },
+    {
+      "id": "fad1",
+      "username": "fotso",
+      "phone": "694316362",
+      "email": "fotso@gmail.com",
+      "password": "fotso@gmail.com"
+    },
+    {
+      "id": "9f54",
+      "username": "macron paul",
+      "email": "paul59@gmail.com",
+      "phone": "123456789",
+      "password": "paul59@gmail.com"
+    },
+    {
+      "id": "1f6d",
+      "username": "malta@gmail.com",
+      "email": "malta@gmail.com",
+      "phone": "123456789",
+      "password": "123456789"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "fce0",
+      "namerestaurant": "burger",
+      "address": "burger tanzani",
+      "email": "burger@gmail.com"
+    },
+    {
+      "id": "0b5c",
+      "namerestaurant": "starbucks",
+      "email": "starbucks@gmail.com",
+      "address": "USA california"
+    }
+  ]
+}
